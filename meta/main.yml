@@ -1,7 +1,5 @@
 # roles/s3fs/meta/main.yml
 ---
-dependencies: []
-
 galaxy_info:
   author: Andrew Mirsky
   license: MIT
@@ -26,5 +24,3 @@ galaxy_info:
     #- packaging
     - system
     #- web
-
-version: 0.1
